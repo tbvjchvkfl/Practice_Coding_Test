@@ -19,7 +19,6 @@
       <td rowspan="7" style="text-align: center; vertical-align: middle;">프로그래머스 레벨 테스트</td>
       <td style="text-align: center;">연습 문제</td>
       <td>
-        <a href="https://github.com/tbvjchvkfl/Practice_Coding_Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12928.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9">약수의 합</a><br>
         <a href="https://github.com/tbvjchvkfl/Practice_Coding_Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/131705.%E2%80%85%EC%82%BC%EC%B4%9D%EC%82%AC">삼총사</a><br>
         <a href="https://github.com/tbvjchvkfl/Practice_Coding_Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/134240.%E2%80%85%ED%91%B8%EB%93%9C%E2%80%85%ED%8C%8C%EC%9D%B4%ED%8A%B8%E2%80%85%EB%8C%80%ED%9A%8C">푸드파이트 대회</a><br>
         <a href="https://github.com/tbvjchvkfl/Practice_Coding_Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/135808.%E2%80%85%EA%B3%BC%EC%9D%BC%E2%80%85%EC%9E%A5%EC%88%98">과일 장수</a><br>
