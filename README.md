@@ -101,7 +101,7 @@
       <td style="text-align: center;">Summer／Winter Coding</td>
       <td>
         <a href="https://github.com/tbvjchvkfl/Practice_Coding_Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/12987.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84">숫자 게임</a>
-        <a href="https://github.com/tbvjchvkfl/Practice_Coding_Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/12987.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EA%B2%8C%EC%9E%84">스킬 트리</a>
+        <a href="https://github.com/tbvjchvkfl/Practice_Coding_Test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Lv.2/%EC%8A%A4%ED%82%AC%20%ED%8A%B8%EB%A6%AC">스킬 트리</a>
       </td>
     </tr>
     <tr>
